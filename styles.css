@@ -7,13 +7,13 @@ div {
 	background-color: white;
 	margin: 10px auto;
 }
-#band {
+#bands {
   list-style: square;
   width: 500px;
   margin: auto;
   padding: 0;
 }
-#band li {
+#bands li {
   background: white;
   padding: 15px;
   border-bottom: 1px solid #ccc;
