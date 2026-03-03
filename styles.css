@@ -1,1 +1,22 @@
 /*  your css code here. If applicable */
+body {
+  font-family: Arial, sans-serif;
+  background: #f4f4f4;
+}
+div {
+	background-color: white;
+	margin: 10px auto;
+}
+#band {
+  list-style: square;
+  width: 500px;
+  margin: 10px auto;
+  padding: 0;
+}
+#band li {
+  background: white;
+  padding: 15px;
+  border-bottom: 1px solid #ccc;
+  font-size: 18px;
+}
+
